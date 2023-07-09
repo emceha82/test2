@@ -152,7 +152,7 @@ Jonathan Ive
 /imagine prompt:Drew Hodges
 /imagine prompt:
 /imagine prompt:
-/*
+```
 #Requires AutoHotkey v2.0
 ; "C:\Users\marci\Desktop\midjourney-powerstyles.txt"
 
@@ -184,7 +184,7 @@ Jonathan Ive
 	}
 }
 
-*/
+```
 
 --------------------------------
 prompty z explore:
